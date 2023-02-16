@@ -2,7 +2,7 @@
 # [Welcome to Cliuno](https://raw.githubusercontent.com/ru44/How-to-break-the-law/main/HelloWorld.js) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Website](https://img.shields.io/website?label=cliuno.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ru44.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RU44_Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=CLIuno)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CLIuno?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=CLIuno)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ru44y)
 
 
